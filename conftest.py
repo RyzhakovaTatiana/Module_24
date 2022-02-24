@@ -39,3 +39,11 @@ def web_browser(request, selenium):
 
         except:
             pass # just ignore any errors here
+
+
+
+
+
+
+
+

@@ -34,3 +34,4 @@ def test_petfriends(web_browser):
    time.sleep(5)  # just for demo purposes, do NOT repeat it on real projects!
 
    assert  web_browser.current_url == 'https://petfriends1.herokuapp.com/all_pets',"login error"
+
